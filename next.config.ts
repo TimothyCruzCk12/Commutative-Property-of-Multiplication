@@ -2,7 +2,7 @@
 
 const nextConfig = {
   output: 'export',
-  basePath: '/Commutative-Property-of-Multiplication',
+  basePath: process.env.NODE_ENV === 'production' ? '/Commutative-Property-of-Multiplication' : '',
   images: {
     unoptimized: true
   }
