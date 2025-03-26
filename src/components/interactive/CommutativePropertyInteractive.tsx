@@ -19,7 +19,7 @@ const CommutativePropertyInteractive = () => {
             <X size={40} className="text-sky-600" />
           </div>
           <CardDescription className="text-sky-700 text-lg">
-            Discover how changing the order of factors doesn't change their product!
+            Discover how changing the order of factors doesn&apos;t change their product!
           </CardDescription>
         </CardHeader>
         <CardContent className="space-y-6 pt-6">
@@ -28,7 +28,7 @@ const CommutativePropertyInteractive = () => {
             <AlertTitle className="text-blue-700">Commutative Property Basics</AlertTitle>
             <AlertDescription className="text-blue-600">
               The commutative property of multiplication states that changing the order of the factors does not change their product. 
-              For any numbers 'a' and 'b': a × b = b × a
+              For any numbers &apos;a&apos; and &apos;b&apos;: a × b = b × a
             </AlertDescription>
           </Alert>
           
